@@ -1,5 +1,6 @@
 <template>
   <div class="home">
+  移动端模板
   </div>
 </template>
 
