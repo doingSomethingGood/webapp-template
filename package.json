@@ -8,6 +8,7 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
+    "dingtalk-jsapi": "^2.13.23",
     "postcss-pxtorem": "^5.1.1",
     "vue": "^2.6.11",
     "vue-router": "^3.2.0"

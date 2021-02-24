@@ -17,7 +17,7 @@ module.exports = {
     proxy: {
       'cors-api': {
         /* 目标代理服务器地址 */
-        target: 'http://192.168.158.53:8080',
+        target: 'http://172.16.80.47:8080/',
         /* 允许跨域 */
         changeOrigin: true,
         pathRewrite: {
